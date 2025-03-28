@@ -11,3 +11,4 @@ main3
 TEST2
 test
 main4
+test3
