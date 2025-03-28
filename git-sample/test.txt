@@ -10,3 +10,4 @@ bug2
 main3
 TEST2
 test
+test3
