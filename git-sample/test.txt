@@ -7,3 +7,4 @@ main
 bug
 main2
 bug2
+TEST2
